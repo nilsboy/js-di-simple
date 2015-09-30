@@ -1,0 +1,23 @@
+{
+  "name": "di-simple",
+  "version": "1.0.0",
+  "description": "Simple dependency injection",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nilsboy/js-di-simple.git"
+  },
+  "scripts": {
+    "test": "TODO"
+  },
+  "author": "nils@boyseninfo",
+  "license": "MIT",
+  "dependencies": {
+    "bunyan": "^1.5.1",
+    "mout": "^0.11.0"
+  },
+  "devDependencies": {
+    "assert": "~1.3.0",
+    "cucumber": "latest"
+  }
+}
